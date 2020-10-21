@@ -20,8 +20,8 @@ cordova plugin add cordova-plugin-browsersync<br>
 1. Clonar el repositorio
 2. npm install -g cordova
 3. npm install
-4. cordova platform add <platform name>
-5. cordova run <platform name> 
+4. cordova platform add android
+5. cordova run android 
 6. cp build.json.example build.json y configurar los parámetros necesarios
 
 <br>
