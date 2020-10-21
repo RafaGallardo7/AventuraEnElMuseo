@@ -1,0 +1,5 @@
+# OS X
+.DS_Store
+/www/node_modules
+build.json
+aventura_museo.keystore
